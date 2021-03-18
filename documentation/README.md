@@ -24,9 +24,17 @@ Before Going Live:
 - [ ] Do not do any software/OS updates!
 - [ ] Hide your bookmark bar if you'll be showing your browser
 - [ ] Test all scenes in OBS, verifying that visuals and audio are working as expected
+    - Have your guests join early so you can verify that OBS is capturing their audio and video
+    - Consider using OBS's "Studio Mode". It'll prevent you from accidently changing scenes if you click around in OBS
+- [ ] Begin streaming to Youtube with enough time to do any troubleshooting or rebooting
+    - Youtube doesn't start showing your stream until you hit "Go Live" in Youtube Studio
 
 After The Show:
-- [ ] 
+- [ ] Update the video description with relevant show notes and timestamps
+    - In Youtube Studio you can find the video under `Content > Live`
+- [ ] Trim the video if necessary
+    - Can only trim ater the video is done processing, which can sometimes take ~2 days...
+- [ ] Close the episode issue back in this repo
 
 ```
 
