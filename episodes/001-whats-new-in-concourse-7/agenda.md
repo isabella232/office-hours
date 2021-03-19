@@ -1,6 +1,7 @@
 # Episode 001 : What's New in Concourse 7
+- https://youtu.be/Ml2tB1jxYFw
 - Hosted by Taylor & Scott
-- 18/03/2020
+- 18/03/2021
 
 ## Latest in Concourse
 

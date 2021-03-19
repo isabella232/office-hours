@@ -1,11 +1,12 @@
 # Episode ### : Title
+- https://youtu.be/xxxxxxxx
 - Hosted by @twitterhandle
-- dd/mm/2020
+- dd/mm/yyyy
 
 ## Table of Contents
 
-- 00:00:00 - Welcome!
-- 00:00:00 - The second thing
+- Welcome!
+- The second thing
 
 ## Latest in Concourse
 
