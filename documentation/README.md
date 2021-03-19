@@ -25,9 +25,9 @@ Before Going Live:
 - [ ] Hide your bookmark bar if you'll be showing your browser
 - [ ] Test all scenes in OBS, verifying that visuals and audio are working as expected
     - Have your guests join early so you can verify that OBS is capturing their audio and video
-    - Consider using OBS's "Studio Mode". It'll prevent you from accidently changing scenes if you click around in OBS
+    - Consider using OBS's "Studio Mode". It'll prevent you from accidently changing scenes if you click around in OBS while live
 - [ ] Begin streaming to Youtube with enough time to do any troubleshooting or rebooting
-    - Youtube doesn't start showing your stream until you hit "Go Live" in Youtube Studio
+    - Youtube doesn't start showing the stream until you hit "Go Live" in Youtube Studio
 
 After The Show:
 - [ ] Update the video description with relevant show notes and timestamps
