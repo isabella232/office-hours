@@ -16,12 +16,16 @@ Prep:
     - [ ] Title: `Community Office Hour - TITLE HERE`
     - [ ] Fill in desciption with a brief explanation of what will be presented
 - [ ] Add scheduled episode to the "Community Office Hours" playlist
-- [ ] Tweet about it from the Concourse account and/or your own Twitter account
-    - [ ] Share tweet link in #dev channel on discord
-    - [ ] Share tweet link in slack channels (#concourse-vmware, #concourse-runway, #mapbu-rd-toronto, etc.)
+- [ ] **On Tuesday** tweet about the episode from the Concourse account and/or your own Twitter account
+    - [ ] Share Youtube link in #dev channel on discord
+    - [ ] Share Youtube link in slack channels (#concourse-vmware, #concourse-runway, #mapbu-rd-toronto, etc.)
 
 Before Going Live:
 - [ ] Do not do any software/OS updates!
+- [ ] Send "Going Live" messages on
+  - [ ] Discord (#dev channel)
+  - [ ] Twitter
+  - [ ] Slack
 - [ ] Hide your bookmark bar if you'll be showing your browser
 - [ ] Test all scenes in OBS, verifying that visuals and audio are working as expected
     - Have your guests join early so you can verify that OBS is capturing their audio and video
