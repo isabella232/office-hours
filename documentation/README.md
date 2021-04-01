@@ -38,6 +38,7 @@ After The Show:
     - In Youtube Studio you can find the video under `Content > Live`
 - [ ] Trim the video if necessary
     - Can only trim ater the video is done processing, which can sometimes take ~2 days...
+- [ ] Add a folder for the episode under `episodes`. Copy and fill in the `template.md` at the root of the `episodes` folder.
 - [ ] Close the episode issue back in this repo
 
 ```
